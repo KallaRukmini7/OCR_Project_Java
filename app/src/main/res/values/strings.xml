@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OCR projectjava</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="files">Files</string>
+    <string name="audio">Audio</string>
+    <string name="capture">Capture</string>
+</resources>
