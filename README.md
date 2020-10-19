@@ -1,3 +1,4 @@
 # Overview
 - This is the main layout page of the OCR Project in Java
-- &copy; [Rukmini Kalla](https://github.com/KallaRukmini7)
+<p align="center">&copy; <a href="https://github.com/KallaRukmini7">RukminiKalla</a></p>
+
